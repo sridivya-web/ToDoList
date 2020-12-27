@@ -1,14 +1,20 @@
-.main {
+    .main {
 
-    width:99%;
-    height:650px;
-    }
+        width:99%;
+        height:650px;
+        }
     .toDoListCard {
  
         background:lightsteelblue;
         justify-content: center;
         padding:5rem;
         margin: 2rem;
+        width: 99%;
+        height: 900px
+    }
+    .toDoForm{
+      display: flex;
+      padding:1rem;
     }
     .toDoListCard input {
      
@@ -27,4 +33,3 @@
       border:2px solid blue;
       margin: 5px;
     }
-    
